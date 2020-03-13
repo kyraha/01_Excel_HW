@@ -14,3 +14,8 @@
 
     * Normalized within category/sub-category to compare success ratios.
     * Include staff_pick and spotlight columns.
+
+4. Bonus
+
+    * Small projects have higher success rate. It's easier to collect a small amount of money than large budgets.
+    * There is a hump around $40,000 possibly indicating the start of more serious projects that people might want to support. Further increasing of the goal amount however makes them again harder to achieve.
